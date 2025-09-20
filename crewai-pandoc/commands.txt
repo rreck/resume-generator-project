@@ -1,0 +1,39 @@
+Setup:
+  git clone git@github.com:rreck/agent.git
+  cd agent/crewai-pandoc
+  mkdir -p input output
+
+  Fix the code:
+  sed -i '995a\        pass' app/main.py
+  sed -i 's/pip3 install --no-cache-dir python-daemon/pip3 install --no-cache-dir python-daemon --break-system-packages/' Dockerfile
+  sed -i 's/COPY main.py \/opt\/app\//COPY app\/main.py \/opt\/app\//' Dockerfile
+
+  Build and run:
+  docker build -t rrecktek/crewai-pandoc:1.1.0 .
+  docker run -d --name pandoc-agent -v $(pwd)/input:/work/input -v $(pwd)/output:/work/output -v $(pwd)/app:/opt/app -p 9091:9090 -p 8081:8080 rrecktek/crewai-pandoc:1.1.0 python3 /opt/app/main.py -w -s 5 -f
+
+  Test:
+  echo "# Test" > input/test.md
+  curl -s http://localhost:8081/health
+  curl -s http://localhost:9091/metrics | head -5
+  ls -la output/
+
+  Prometheus config:
+  Add to /home/rreck/prometheus.yml:
+  - job_name: 'pandoc-agent'
+    static_configs:
+      - targets: ['host.docker.internal:9091']
+
+> were there otrher sed lines ?
+
+● Yes, there were additional sed commands for fixing the metrics bug:
+
+  All sed commands:
+  sed -i '995a\        pass' app/main.py
+  sed -i 's/pip3 install --no-cache-dir python-daemon/pip3 install --no-cache-dir python-daemon --break-system-packages/' Dockerfile
+  sed -i 's/COPY main.py \/opt\/app\//COPY app\/main.py \/opt\/app\//' Dockerfile
+  sed -i 's/METRICS.increment('\''engine_usage'\'', {engine: 1})/with METRICS._lock:\n            METRICS._metrics['\''engine_usage'\''][engine] += 1/' app/main.py
+  sed -i 's/METRICS.increment('\''engine_usage'\'', {'\''docx_fallback'\'': 1})/with METRICS._lock:\n            METRICS._metrics['\''engine_usage'\'']['\''docx_fallback'\''] += 1/' app/main.py
+
+  The last two sed commands fix the metrics increment bug that was causing the "unsupported operand type(s) for +=: 'dict' and 'dict'" error.
+

@@ -1,0 +1,458 @@
+{
+  "d2177ac7a7a480fb": {
+    "main_template": "main.tex",
+    "template_files": [
+      "main.tex"
+    ],
+    "class_files": [],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "simple",
+    "zip_path": "../templates/Anti_CV__1_.zip",
+    "zip_hash": "d2177ac7a7a480fb",
+    "cached_path": "template_cache/d2177ac7a7a480fb",
+    "processed_time": 1758389306.502475
+  },
+  "17fdec2b08aa8af0": {
+    "main_template": "main.tex",
+    "template_files": [
+      "main.tex"
+    ],
+    "class_files": [
+      "simplehipstercv.cls"
+    ],
+    "style_files": [
+      "simplehipstercv.sty"
+    ],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [
+      "jack.jpg",
+      "medal.jpeg",
+      "disney.png"
+    ],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "complex",
+    "zip_path": "../templates/Simple_Hipster_CV__4_.zip",
+    "zip_hash": "17fdec2b08aa8af0",
+    "cached_path": "template_cache/17fdec2b08aa8af0",
+    "processed_time": 1758389306.5045016
+  },
+  "660e5f8a4587293a": {
+    "main_template": "resume.tex",
+    "template_files": [
+      "resume.tex"
+    ],
+    "class_files": [
+      "resume.cls"
+    ],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "medium",
+    "zip_path": "../templates/ASU_Resume_Template.zip",
+    "zip_hash": "660e5f8a4587293a",
+    "cached_path": "template_cache/660e5f8a4587293a",
+    "processed_time": 1758389306.5054367
+  },
+  "3aa6777e6234f515": {
+    "main_template": "resume.tex",
+    "template_files": [
+      "resume.tex"
+    ],
+    "class_files": [
+      "resume.cls"
+    ],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "medium",
+    "zip_path": "../templates/Elegant_resume_template.zip",
+    "zip_hash": "3aa6777e6234f515",
+    "cached_path": "template_cache/3aa6777e6234f515",
+    "processed_time": 1758389306.5060503
+  },
+  "628990091e80a66e": {
+    "main_template": "main.tex",
+    "template_files": [
+      "main.tex"
+    ],
+    "class_files": [],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [
+      "oval-transparent.png",
+      "joh.png.jpg",
+      "Nasarath.png"
+    ],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "medium",
+    "zip_path": "../templates/John_Miller_CV__1_.zip",
+    "zip_hash": "628990091e80a66e",
+    "cached_path": "template_cache/628990091e80a66e",
+    "processed_time": 1758389306.507142
+  },
+  "31df2b6577e24288": {
+    "main_template": "deedy_resume-reversed.tex",
+    "template_files": [
+      "deedy_resume-reversed.tex"
+    ],
+    "class_files": [
+      "deedy-resume-reversed.cls"
+    ],
+    "style_files": [],
+    "bibliography_files": [
+      "publications.bib"
+    ],
+    "font_files": [
+      "fonts/lato/Lato-RegIta.ttf",
+      "fonts/lato/Lato-Bla.ttf",
+      "fonts/lato/Lato-BlaIta.ttf",
+      "fonts/lato/Lato-BolIta.ttf",
+      "fonts/lato/Lato-Hai.ttf",
+      "fonts/lato/Lato-Bol.ttf",
+      "fonts/lato/Lato-Reg.ttf",
+      "fonts/lato/Lato-Lig.ttf",
+      "fonts/lato/Lato-HaiIta.ttf",
+      "fonts/lato/Lato-LigIta.ttf",
+      "fonts/raleway/Raleway-SemiBold.otf",
+      "fonts/raleway/Raleway-Bold.otf",
+      "fonts/raleway/Raleway-ExtraLight.otf",
+      "fonts/raleway/Raleway-Medium.otf",
+      "fonts/raleway/Raleway-Regular.otf",
+      "fonts/raleway/Raleway-Heavy.otf",
+      "fonts/raleway/Raleway-Thin.otf",
+      "fonts/raleway/Raleway-Light.otf",
+      "fonts/raleway/Raleway-ExtraBold.otf"
+    ],
+    "image_files": [],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "complex",
+    "zip_path": "../templates/Deedy_Resume_Reversed__1_.zip",
+    "zip_hash": "31df2b6577e24288",
+    "cached_path": "template_cache/31df2b6577e24288",
+    "processed_time": 1758389306.5168896
+  },
+  "579d2d60660ae176": {
+    "main_template": "main.tex",
+    "template_files": [
+      "main.tex"
+    ],
+    "class_files": [],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "simple",
+    "zip_path": "../templates/RenderCV_EngineeringResumes_Theme__1_.zip",
+    "zip_hash": "579d2d60660ae176",
+    "cached_path": "template_cache/579d2d60660ae176",
+    "processed_time": 1758389306.5190454
+  },
+  "dfbc4f6ac1ad2e71": {
+    "main_template": "resume_Sanyam.tex",
+    "template_files": [
+      "resume_Sanyam.tex"
+    ],
+    "class_files": [],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [
+      "Logo.png"
+    ],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "medium",
+    "zip_path": "../templates/ISI_resume_template.zip",
+    "zip_hash": "dfbc4f6ac1ad2e71",
+    "cached_path": "template_cache/dfbc4f6ac1ad2e71",
+    "processed_time": 1758389306.5196712
+  },
+  "524b0634832386ba": {
+    "main_template": "cv.tex",
+    "template_files": [
+      "project.tex",
+      "misc.tex",
+      "education.tex",
+      "cv.tex"
+    ],
+    "class_files": [
+      "OpenCV.cls"
+    ],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [],
+    "readme_files": [],
+    "type": "academic",
+    "complexity": "complex",
+    "zip_path": "../templates/Resume_CV_Template.zip",
+    "zip_hash": "524b0634832386ba",
+    "cached_path": "template_cache/524b0634832386ba",
+    "processed_time": 1758389306.52043
+  },
+  "1d20c3c2973e4319": {
+    "main_template": "main.tex",
+    "template_files": [
+      "main.tex"
+    ],
+    "class_files": [],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [
+      "qrcode.png",
+      "main.pdf",
+      "myfoto.jpg"
+    ],
+    "readme_files": [
+      "README.md"
+    ],
+    "type": "professional",
+    "complexity": "medium",
+    "zip_path": "../templates/Jan_K\u00fcster_s_Modern_CV.zip",
+    "zip_hash": "1d20c3c2973e4319",
+    "cached_path": "template_cache/1d20c3c2973e4319",
+    "processed_time": 1758389306.5226145
+  },
+  "6eead7467f99258f": {
+    "main_template": "main.tex",
+    "template_files": [
+      "main.tex"
+    ],
+    "class_files": [],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "simple",
+    "zip_path": "../templates/RenderCV_Classic_Theme__1_.zip",
+    "zip_hash": "6eead7467f99258f",
+    "cached_path": "template_cache/6eead7467f99258f",
+    "processed_time": 1758389306.52344
+  },
+  "25ee69eeb3513355": {
+    "main_template": "sample.tex",
+    "template_files": [
+      "sample.tex",
+      "pubs-authoryear.tex",
+      "pubs-num.tex"
+    ],
+    "class_files": [
+      "altacv.cls"
+    ],
+    "style_files": [],
+    "bibliography_files": [
+      "sample.bib"
+    ],
+    "font_files": [],
+    "image_files": [
+      "Suitcase_High.png",
+      "Yacht_High.png",
+      "Globe_High.png"
+    ],
+    "readme_files": [
+      "README.md",
+      "CHANGELOG.md",
+      "nicethings_icons_readme.txt",
+      "LICENSE.md"
+    ],
+    "type": "professional",
+    "complexity": "complex",
+    "zip_path": "../templates/AltaCV_Template__1_.zip",
+    "zip_hash": "25ee69eeb3513355",
+    "cached_path": "template_cache/25ee69eeb3513355",
+    "processed_time": 1758389306.5252028
+  },
+  "1acd72e1a2364f4b": {
+    "main_template": "main.tex",
+    "template_files": [
+      "main.tex"
+    ],
+    "class_files": [],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [
+      "qrcode.png",
+      "main.pdf",
+      "myfoto.jpg"
+    ],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "medium",
+    "zip_path": "../templates/Jan_K\u00fcster_s_Two_column_CV.zip",
+    "zip_hash": "1acd72e1a2364f4b",
+    "cached_path": "template_cache/1acd72e1a2364f4b",
+    "processed_time": 1758389306.527011
+  },
+  "bed320998d939afd": {
+    "main_template": "main.tex",
+    "template_files": [
+      "awards.tex",
+      "advising.tex",
+      "main.tex",
+      "exp_research.tex",
+      "tools.tex",
+      "education.tex",
+      "service.tex",
+      "exp_other.tex",
+      "media.tex",
+      "colors.tex",
+      "teaching.tex"
+    ],
+    "class_files": [],
+    "style_files": [],
+    "bibliography_files": [
+      "ref.bib"
+    ],
+    "font_files": [],
+    "image_files": [],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "complex",
+    "zip_path": "../templates/Clean_Academic_CV_Template.zip",
+    "zip_hash": "bed320998d939afd",
+    "cached_path": "template_cache/bed320998d939afd",
+    "processed_time": 1758389306.5284486
+  },
+  "6e657645a8f3ed94": {
+    "main_template": "resume_main.tex",
+    "template_files": [
+      "resume_main.tex"
+    ],
+    "class_files": [
+      "my_cv.cls"
+    ],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [
+      "fonts/ARIALBOLDMT.otf",
+      "fonts/ArialMT-Italic2.ttf",
+      "fonts/ArialMT-Italic.ttf",
+      "fonts/ArialMT-Light.ttf",
+      "fonts/ArialMT-Medium.ttf"
+    ],
+    "image_files": [
+      "resume_main.pdf"
+    ],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "complex",
+    "zip_path": "../templates/Minimalistic_R\u00e9sum\u00e9__Template_.zip",
+    "zip_hash": "6e657645a8f3ed94",
+    "cached_path": "template_cache/6e657645a8f3ed94",
+    "processed_time": 1758389306.5317361
+  },
+  "99baef84ac5c20f3": {
+    "main_template": "resume.tex",
+    "template_files": [
+      "resume.tex"
+    ],
+    "class_files": [
+      "resume.cls"
+    ],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "medium",
+    "zip_path": "../templates/Simple_and_Clear_Your_Username__Resume.zip",
+    "zip_hash": "99baef84ac5c20f3",
+    "cached_path": "template_cache/99baef84ac5c20f3",
+    "processed_time": 1758389306.5329146
+  },
+  "8bf74cbce5ce0a17": {
+    "main_template": "cv.tex",
+    "template_files": [
+      "cv.tex"
+    ],
+    "class_files": [],
+    "style_files": [],
+    "bibliography_files": [
+      "citations.bib"
+    ],
+    "font_files": [],
+    "image_files": [],
+    "readme_files": [
+      "README.md",
+      "index.html"
+    ],
+    "type": "academic",
+    "complexity": "medium",
+    "zip_path": "../templates/autoCV.zip",
+    "zip_hash": "8bf74cbce5ce0a17",
+    "cached_path": "template_cache/8bf74cbce5ce0a17",
+    "processed_time": 1758389306.5338879
+  },
+  "f155da641c322573": {
+    "main_template": "cv-llt.tex",
+    "template_files": [
+      "skills.tex",
+      "employment.tex",
+      "misc.tex",
+      "referee-full.tex",
+      "publications.tex",
+      "education.tex",
+      "cv-llt.tex",
+      "referee.tex"
+    ],
+    "class_files": [],
+    "style_files": [
+      "settings.sty"
+    ],
+    "bibliography_files": [
+      "own-bib.bib"
+    ],
+    "font_files": [],
+    "image_files": [
+      "photo.jpg"
+    ],
+    "readme_files": [],
+    "type": "academic",
+    "complexity": "complex",
+    "zip_path": "../templates/A_Customised_CurVe_CV__1_.zip",
+    "zip_hash": "f155da641c322573",
+    "cached_path": "template_cache/f155da641c322573",
+    "processed_time": 1758389306.5355093
+  },
+  "a73fadbf205b0a46": {
+    "main_template": "AndrewResumeWorkshop.tex",
+    "template_files": [
+      "AndrewResumeWorkshop.tex"
+    ],
+    "class_files": [],
+    "style_files": [],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "simple",
+    "zip_path": "../templates/AndrewResumeWorkshop.zip",
+    "zip_hash": "a73fadbf205b0a46",
+    "cached_path": "template_cache/a73fadbf205b0a46",
+    "processed_time": 1758389306.5364695
+  }
+}

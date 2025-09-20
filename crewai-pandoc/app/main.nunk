@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+# Copyright (c) RRECKTEK LLC
+# Version: 1.0.0
+# Built: @1755316590
+
+import os, time
+
+def main():
+    print("CrewAI Pandoc Agent placeholder running.")
+    print("Convert Markdown to PDF here.")
+
+if __name__ == "__main__":
+    main()

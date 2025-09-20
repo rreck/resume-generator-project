@@ -1,0 +1,30 @@
+# Exclude large output files and temporary files
+crewai-pandoc/output/
+*.pdf
+*.log
+*.aux
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large template files (keep structure but not all content)
+templates/*.zip
+*.zip

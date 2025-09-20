@@ -1,0 +1,27 @@
+# Copyright (c) RRECKTEK LLC
+# Version: 1.0.0
+# Built: @1755316590
+FROM python:3.11-slim
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    pandoc texlive-latex-base texlive-latex-recommended texlive-fonts-recommended \
+    texlive-luatex texlive-xetex biber fontconfig jq ca-certificates \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /opt/app
+COPY app/requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+COPY app/ ./
+
+ENV PYTHONUNBUFFERED=1 \
+    INPUT_DIR=/work/input \
+    OUTPUT_DIR=/work/output \
+    TEMPLATE_FILE=/opt/app/template.tex \
+    SKIP_IF_UPTODATE=1
+
+RUN mkdir -p /work/input /work/output /work/output/logs
+
+#HEALTHCHECK --interval=30s --timeout=5s --retries=3 CMD python - <<'PY' || exit 1
+HEALTHCHECK --interval=30s --timeout=5s --retries=3 CMD pandoc -v || exit 1
+
+CMD ["python","/opt/app/main.py","-i","/work/input","-o","/work/output","-t","/opt/app/template.tex"]

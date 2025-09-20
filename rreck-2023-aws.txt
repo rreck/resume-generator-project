@@ -1,0 +1,400 @@
+Ronald Reck
+Clifton, VA 20124
+248-444-0835
+http://www.rrecktek.com http://www.ronaldreck.com rreck@rrecktek.com
+SUMMARY
+Active DoD Top Secret Clearance with CI-Poly, creative UNIX/Linux specialist with two degrees
+in Linguistics. A specialist in web architecture and COTS product integration. Also, a published
+author, enterprise architect can manage a team or solve the problems no one else can. Author
+of commercial software Predictive Analytics Framework on Amazon Web Service Marketplace &
+C2S (Released 01/21/2015). 16.+ Years of Amazon Web Services experience. AWS
+Marketplace publisher of 11 data products that have been online since 2019. Seasoned
+software and data developer with a preference for AGILE and JIRA.
+
+CORE SKILLSET
+All UNIX & Linux variants Solaris, CentOS/RedHat, SuSE, Ubuntu, Slackare
+Relational (SQL), / NoSQL / RDF Databases: Virtuoso, MySQL/MariaDB, Couchbase, MarkLogic, MongoDB,
+Allegrograph, Oracle, PostgreSQL, SyBase, BDB
+Languages: R/RMarkdown, Perl, Shell, PHP, Tk, Sed, AWK, SQL, Pascal, C, Basic, LISP, Prologue, Python
+Analytics- Predictive Analytics, Categorization, Generalized Artificial Intelligence, Machine Learning, Artificial
+Intelligence, Natural Language Processing, Regressions, PCA, Survival Analysis, GGPLOT, Shiny Server
+Internet & Web expert: Drupal, Wordpress, PHP, Perl, HTML, XML/RDF(S)/OWL, CSS, Javascript, SOLR,
+elasticsearch, database, mailman 2&3, intelligent agents, knowledge representation, security, firewalls,
+IPTables, data conversion, TCP/IP, HTTP, SIP, VOIP, QoS, Asterisk, Configuration Management,
+Cloud/Virtualization, LAMP/LEMP
+Entire GNU UNIX: Computer vision (OpenCV), Amazon Web Services (AWS), cloud, Docker, Docker Swarm,
+Shell, shell scripting, administration, automation, DevOpts. security, tuning, disk management, application
+development, full software life cycle, configuration management, technical documentation, service level
+agreements, content management, knowledge representation, horizontal scaling.
+Participant: W3C Government Linked Data Working Group (invited expert), W3C Social Web XG (invited
+expert), W3C GRDDL Working Group (invited expert), StratML Working Group, W3C Social Web Incubator
+Group (invited expert status), Contributing Editor- Financial Information Services Division of the Software &
+Information Industry Association, Cognitive AI Community Group, Data Privacy and Controls Community
+Group, AI KR (Artificial Intelligence for Knowledge Representation) Community Group, Linked Data for
+Language Technology Community Group.
+
+EDUCATION
+EASTERN MICHIGAN UNIVERSITY
+
+Master of Arts – English Linguistics 04/07
+• Linguistics - Computational linguistics, morphology/syntax, theoretical syntax.
+• Natural Language Processing, computational & rule based algorithms, information theory.
+• Syntactic parser in Perl, verb phrase structure, cross-cultural temporal abstraction, semantics.
+WAYNE STATE UNIVERSITY
+Bachelor of Arts - English Linguistics 06/92
+• Linguistics - theoretical syntax, morphology, and semantics.
+
+WORK EXPERIENCE
+Technica Corporation - Subject Matter Expert 09/23 – July 24
+• Service Award within 90 days of service.
+• Web architecture of Atlassian suite and supporting products.
+• COTS products support and
+• Onsite at The Federal Bureau of Investigation - global admin - Granted VAR, with CI-Poly
+• Multiple required certifications and training. - (Child Abuse, Insider Threat, OPSEC, Privileged
+User, Media)
+• Enterprise application support across enclaves.
+• Design and implemented workflows, ATO, REST, automation, HAProxy, HA database,
+Atlassian Suite
+SanCorpConsulting
+Chief Technology Officer: / Senior Technical Advisor 05/20 – 06/21
+• Senior Technology Advisor inside the Department of Defense Joint Artificial Intelligence Center (JAIC)
+• Assigned to Data Science and Artificial Intelligence Team
+• Function as senior-most Data Science oversight on projects enjoying tens of millions in funding spanning
+all branches of the military.
+• Designed natural language processing pipeline for “successful” projects that received additional funding
+• Drove process for security hardening of R containers in cloud-based R development environment.
+
+RRecktek LLC.
+100+ Confidential Clients Including:
+Johson&Johnson, Department of Education - DHS Identity Credential & Access Management (ICAM) inside
+USCIS- Defense Technology Information Center (DTIC)(Fort Belvoir) - Transaction Network Systems -Victor
+Securities- Skye Suh PLC Yudrio Inc.- Eastman Kodak – Navanti Inc.
+Consultant ~ 09/09 –Present
+• Designed, implemented NLP processing pipeline for abstractive / extractive and NER multiple domains
+• Designed, implemented unsupervised categorization for customer (20k) segmentation.
+• Designed, implemented vector based semantic comparison on 700k news articles.
+• Designed, implemented, load, query. UI semantic modeling all FDA FAERS pharmacovigilance (25MM
+records ~ 252Gb). All schema elements in ICH ICSR E2B(R2). >1.1Billion triples. Shiny dashboard
+• Designed and implement semantic modeling for vocabularies: Company Product Dictionary, and MedDRA
+versions 23-25, ISO3166, RDF, SKOS, RDFS, Mark Logic
+• Designed and deployed complex enterprise monitoring solution based on Docker Swarm, Prometheus,
+Grafana. Used to monitor thousands of containers across multiple networks and environments.
+• Designed commercial cloud based Predictive Analytics Framework leveraging python problem solvers,
+highly optimized R, robust Drupal capability, and Resource Description Framework visualization.
+• Optimized R programming language using CAIRO, Tcl/Tk, and RMarkdown.
+• Recommended and implemented automation of RedHat STIG hardening and best practices across a large
+government agency’s Identity, Credential and Access Management component.
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Assembled and lead team for rapid development of advanced crowd-sourcing social media framework,
+with SMS & gamification running under LAMP stack.
+Architected and deployed (devopts) automated machine configuration capability for multiple versions of
+Redhat & CentOS running under VMWare. Improvements to operating system security for PCI Compliance.
+Architected, managed and implemented trust based system for determining information veracity (Drupal).
+Responsible for data model for multi-million dollar project’s data sharing product using RDF storage.
+Created extensions for using JIRA for timesheets and managing troubletickets
+Designed and implemented financial forecasting website for Reserve Studies (Drupal).
+Contributed to the design of cutting edge white hat security methodologies.
+Technical writing and grammar for winning RFP’s and well received RFI’s.
+Developed system for alignment of sentiment in SEC filings using R and RMarkdown.
+
+Inxight Federal Systems – SAP Government Support and Services
+Lead Client Manager ~ 03/08 – 09/09
+• Designed and Implemented distributed sentiment analysis framework used for the analysis of 800
+thousand Reuters articles.
+• Promoted and shaped the StratML standard.
+• Implemented controlled vocabularies for sentiment adjectives, verbs and nouns.
+
+Collexis Inc.
+Chief Technology Officer- Americas~ 02/07 –02/08
+• Responsible for product packaging and delivery throughout North America.
+• Promoted SKOS compliance as a supported format.
+• Forged an enterprise approach to thesaurus management.
+• Responsible for new domain thesauri:
+• Aviation, Vehicles, Weapons, Geographic Entities, Gangs, Nationalities, Races
+
+RRecktek LLC.
+Factiva
+Consultant ~ 11/06 –02/07
+• Designed RDF capability for Synaptica Knowledge Management Tool.
+Intelligence Community Metadata Working Group Staff
+Senior Software Engineer ~ 1/05 –10/06
+• Tasking under Executive Order 13356.- Technologies include XML, RDF, OWL, XSLT, VMware, Authority
+Files, Requirements, Design, Development, Security, COTS, Validation, Standards.
+• Develop Strategies and Standards for data sharing for 16 Intelligence Communities.
+• As technical Lead for Controlled Vocabulary Management System responsibilities included:
+• Forumulation of detailed formal requirements.
+• Review and selection of COTS product for vocabulary management.
+• Creation of use cases, test cases, quality control, access control, workflow, documentation, data
+models, concept of operations, accreditation, integration, and deployment.
+• Standards based vocabularies using Z39.19 and Zthes specifications.
+• Extension of system to include Simple Knowledge Organisation System (SKOS) format.
+• Modeling of International Standards Organization and OASIS standards.
+Technical Lead ~ 11/04 – 9/05
+• Seattle LInX Project for Naval Criminal Investigative Service – Data warehouse of law enforcement data
+from a plethora of agencies. Brought in a team of contractors to re-architect and implement J2EE
+application front ended by Tomcat, Sun Application Server, Web Logic. Technologies include XML, SVG,
+BPML, L&C, MS Windows, PVCS, Ulytix, Oracle, Sun Solaris, Intalio, Initiate, OpenSTA, Quality Control,
+UAT,SSL, Certs.
+
+Science Applications International Corporation
+Senior Software Engineer ~ 03/03 – 12/04
+• Re-Engineered 100+ node network and all supporting services – NFS, NIS, DNS, Raptor Firewall, HTTP,
+NetScreen VPN, CVS, Clearcase, Ntop, AMANDA. Redhat, Solaris, IRIX.
+• Integration & testing for major components of Terrorist / Total Information Awareness (TIA) software.
+• Created comprehensive documentation for the implementation of Structured Discovery Thread – Analysis
+of unstructured data – Latent Semantic Indexing, JBoss, JMS, RSS, Oracle, data conversion, metrics.
+• Proposed environment and security standards for RDEC Program Redhat AS systems.
+• Designed and implemented application for semantic analysis of unstructured data using Tokenization,
+Stemming, Self Organizing Maps, and Wordnet:: Similarity in Perl.
+• Created tool to convert XML Topic maps and RDF into Scalable Vector Graphics.
+• Designed and Developed NISPOM security compliance strategy adopted by Future Combat Systems.
+
+University of Maryland, Institute for Systems Research
+Project Leader – MINDLAB/MINDSWAP ~ 02/02 – 03/03
+• Designed and deployed web site using PHP & Redland RDF Application Framework.
+• Created online search engine for searching across the DAML ontology library.
+• Created Windows software for converting Excel spreadsheets into RDF format.
+• Designed and deployed entire online infrastructure.
+• Designed and deployed complex data conversion procedures for Parka database.
+• Attained World Wide Web Consortium membership status.
+• Prepared Parka research for presentation at First International Semantic Web Conference (ISWC).
+
+ITisOpen (Optimally Open Solutions Inc.)
+Director of Web Architecture ~ 05/01 – 02/02
+• Designed process for web publication from Adobe Framemaker.
+• Designed and implemented corporate Intranet.
+• Designed, documented and implemented 2 tier web publication architecture.
+• Designed and implemented search engine for Mailman (mailing list software).
+
+Winstar Communications Inc.
+Principal Information Architect ~ 07/98 – 03/01
+• Designed and implemented complex system and process for the publishing of technical information.
+• Designed and implemented scalable system for web representation of infrastructure topology.
+• Drove corporate data standards – WWW publishing standard, Network File and Directory Naming.
+• Designed and coded scalable robust solutions for textual navigation and organization.
+• Firefighting, Y2K network readiness, Collector, billing systems, contract/document management.
+• Perl 5, Sun & Solaris, BMC, Linux, BSD, Samba, TCPD, Apache, GNU toolset, Python/Zope, Frontpage97,
+Frontpage98, Word 7.0 & 7.0a, Excel 7.0, Excel 98, Word 98, AutoCAD R14, Paintshop Pro, Adobe
+Photoshop.
+
+The Allied Group Inc.
+Systems Engineer ~ 08/99 - 03/00
+• Earned Sun Enterprise and Workgroup Certification, BMC Patrol Certification.
+• Sun high-availability Oracle cluster tuning.
+• Corporate Intranet lead architect (170 sites), WWW standards and content management.
+
+Electric Press Inc.
+Enterprise Architect ~ 11/98 - 01/99
+• Designed and implemented system for making snapshots of operating environments.
+
+•
+•
+•
+
+Designed migration path for re-engineering infrastructure - security, network, backups.
+Configured and installed Sendmail, TCPD, HTTPD, SSHD, GCC, GNU tools.
+Electronic Commerce and recovery of United States Information Agency from HACKER attack.
+
+Federal Communications Commission
+Webmaster and Senior UNIX Administrator ~ 03/98 - 07/98
+• Jurisdiction in both Universal Licensing System and FCC Auctions.
+• Designed and implemented standards for development, staging, and production environments in
+accordance with Inspector General guidelines.
+• Designed, coded, and maintained web and system security, web metrics.
+• Key encryption, advanced networking, firewall, proxies, security standards.
+• Sapphire, Netscape, Sybase, Jaguar, Java, TCPD, rsh, DNS, HTTP, HTTPS.
+
+Digital Encryption Systems Inc.
+Director of Online Services ~ 04/97 -01/2007
+• Designed and deployed system for the population of legal forms from MS Access.
+• Designed and implemented Legato/ORACLE hot backups for STANDARD & POOR’s 2M dollar webfarm.
+• Designed, coded, and maintained web security, database, metrics, and searching systems.
+• Designed and supervised Legacy extraction task from MUMPS using NeXt web objects.
+• Designed, coded, and maintained real-time reporting systems for modeling environment.
+• Staged systems development, security, SSH, SSL, PGP, NFS, DNS, Sendmail, PERL.
+• TCP/IP, Apache, Netscape, Open Market, Solaris 2.6, NeXt, FreeBSD, Linux, TIS Firewall.
+• Web publishing, data conversion, scalable architectures, and COTS integration.
+
+The Council of Better Business Bureaus
+Senior Technology Expert - Internet Systems ~ 06/97 - 03/98
+• Designed, coded, and maintained web security, database, statistics, web publishing, text searching
+systems for 150+ Bureau websites.
+• Designed, coded, and maintained web publishing systems for sites up to 225 pages.
+• Data conversions, proprietary log parsing, web monitoring of fax server and system errors.
+• Designed, coded network monitoring system that aided in recovery of $17K from our ISP.
+• Staged Solaris 2.5.1 environment for development in Perl, and UNIX shell with GNU tools.
+
+Eastern Michigan University • Texas A & M University
+Technical Editor of LINGUIST, Senior Editor, Systems Engineer ~ 10/92 - 02/97
+• LINGUIST is the largest academic newsletter on Internet, and arguably the most influential of journals in
+the field of Linguistics. Over 8000 subscribers to 2000+ issues per year = 10 per day.
+• Several million messages annually, LISTSERV, EMAIL systems.
+• Ultrix, SunOS, Solaris, shell scripting, all C and Bourne shells.
+
+Inside Ford Motor Company ‘s WWW Organization
+Data Center Administrator, New Media Architect ~ 11/96 - 02/97
+• Staging, maintenance, and support of entire data center Solaris (2.5.1) environment.
+• Developed service level agreement between the W3 group and its customers (other parts of Ford).
+• Designed, coded, and implemented network monitoring software to contact beepers.
+• Designed, coded, and implemented global web activity statistics system.
+• Designed, coded, and maintained web security system.
+
+Ford Motor Company ‘s CTIS (Corporate Technical Information System)
+and Information Management Department
+
+POSIX Network Administrator, Senior Web Developer ~ 10/95 - 11/96
+• Staging, maintenance, and support of 15+ POSIX based enterprise systems.
+• Supported operating systems - Solaris 2.3, 2.5.1, IRIX 5.3, Linux Caldera (Redhat), FreeBSD.
+Multiple Supported Machines: Sun E5000, Sun E3000, SGI INDY, SGI CHALLENGE S.
+• Installed and configured multiple peripherals - CDROM, DAT drives, SSA, Exabite stacker.
+• Agent technology, designed and maintained Spider for cataloging corporate network.
+• Designed, Coded, Implemented, and Supported company wide web feedback system.
+• Designed, Coded, Implemented the web security system for databases moved from VM.
+• Member of 3 member technical subcommittee WSL (web single login) adopted by FORD MOTOR
+COMPANY as a solution to web security. Using cookies, SSL, cross server, cross platform.
+
+AWARDS & CERTIFICATIONS
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+CyberAwareness Challenge 2021
+Identifying And Safeguarding Personally Identifiable Information (PII)
+DoD Annual Security Awareness Refresher 2021
+Insider Threat Awareness
+OPSEC Awareness for Military Members, DoD Employees and Contractors 2021
+Unauthorized Disclosure of Classified Information for DoD and Industry 2021
+Introduction to Information Security
+Awarded Outstanding Service Award by Eastern Michigan University Linguistics.
+Earned Sun Enterprise and Workgroup Certification, BMC Patrol Certification.
+
+SELECTED PUBLICATIONS, PAPERS, POSTERS & PRESENTATIONS
+•
+
+Reck, Ronald, Suh, Tong Sun. Detecting Bias and Prejudice Online: It’s Not Just Black and White.
+KMWorld, Text Analytics Forum .Washington, DC.November 2020
+
+•
+
+Reck, Ronald, Suh, Tong Sun. Using Graph Theory to Scale the Border Wall. Graphorum .Chicago, IL.
+October 2019
+
+•
+
+Chubirka, Michele, Reck, Ronald P. Thin Slicing a Black Swan: A Search for The Unknowns. RSA
+Conference. San Francisco, CA. February 2013.
+
+•
+
+Halpin, Harry, Reck, Ronald P. Vocabutek: An Electronic Auction of Knowledge for Linked Data. Artificial
+Intelligence Meets the Web of Data. Montpellier, France. August 2012.
+
+•
+
+Using Semantic Web Technology for Access Control, Information Systems Security Association.
+Washington D.C. September 2011.
+
+•
+
+Reck, Ronald P., Kenneth B. Sall and Wendy A. Swanbeck. “Determining the Impact of Eric Clapton on
+Music Using RDF Graphs: Selected Challenges of Semantics Across and Within Datasets.” Presented at
+Balisage: The Markup Conference 2011, Montréal, Canada, August 2 - 5, 2011. InProceedings of
+Balisage: The Markup Conference 2011. Balisage Series on Markup Technologies, vol. 7 (2011).
+doi:10.4242/BalisageVol7.Sall01.
+
+•
+
+Requirements for a Taxonomy Management System, The Open Group - Semantic Interoperability:
+Enterprise Vocabulary Workshop. June 2009.
+
+•
+
+Baden, David, Reck, Ronald P. Using the Resource Description Framework (RDF) to Simplify Content
+Management, National Association of Broadcaster’s Engineering Conference. Las Vegas, Nevada April
+2009.
+
+•
+
+Reck, Ronald P., Sall Kenneth. Sentiment Detection in Open Source Information for the United States
+Government , XML-in-Practice 2008. Arlington, Virginia. December 2008.
+
+•
+
+Meeting NISPOM Chapter 8 Compliance in the Linux Operating System, Information Systems Security
+Association. Washington D.C.. November 2008.
+
+•
+
+Generating and Rendering String Frequency Measurements of Project Gutenberg Texts: Using Resource
+Description Framework to Present Textual Metadata, VDM Verlag. ISBN-10: 3836494515. ISBN-13:
+978-3836494519. May 2008
+
+•
+
+Graef, Jean and Reck, Ronald P. Pre-rountable primer: Ontologies & the Semantic Web. Montague
+Institute. November 2007.
+
+•
+
+Generating and Rendering Readability Measurements of Project Gutenberg Texts, The 4th Corpus
+Linguistics Conference. Birmingham, England. July 2007.
+
+•
+
+Applying RDF Site Syndication (RSS) and Zthes to International Standards Organization (ISO) Standards,
+The 4th International Conference on Cybernetics and Information Technologies, Systems and
+Applications. Orlando, Florida July 2007.
+
+•
+
+Generating and Rendering String Frequency Measurements of Project Gutenberg Texts, Master’s thesis.
+Eastern Michigan University, Ypsilanti, Michigan. April 2007.
+
+•
+
+Sall, Kenneth and Reck, Ronald P. Applying XQuery and OWL to The World Factbook, Wikipedia and
+Project Gutenberg, XML 2006. Boston, MA, December 2006.
+
+•
+
+Beckman, Tom and Reck, Ronald P. Issues in Knowledge Representation and Semantic Interoperability,
+5th Semantic Interoperability for E-Government Conference. McLean, Virginia, October 2006. Special
+Recognition Award for the Best Exhibit.
+
+•
+
+Metadata Cards for Describing Project Gutenberg Texts , OntoLex 2006: Interfacing Ontologies and
+Lexical Resources for Semantic Web Technologies. Genoa, Italy, May 2006.
+
+•
+
+Sall, Kenneth and Reck, Ronald P. Implementing a Government-wide Semantic Solution to Thesauri, XML
+2005. Atlanta, Georgia, November 2005.
+
+•
+
+Doing Justice to Data Standards: The Global Justice XML Data Model (GJXDM), International Conference
+on Politics and Information Systems Technology and Applications. Orlando, Florida, July 2005.
+
+•
+
+John Terpstra, Paul Love, Ronald P. Reck, Tim Scanlon. Hardening Linux. McGraw Hill Osborne Media.
+ISBN: 0072254971, August 2004.
+
+

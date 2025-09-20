@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+output/
+input/
+*.log
+*.pdf
+*.docx
+# build outputs
+output/
+input/
+
+# caches
+.cache/
+*.aux
+*.log
+*.out
+*.toc
+
+# system
+*.swp
+*~
+.DS_Store

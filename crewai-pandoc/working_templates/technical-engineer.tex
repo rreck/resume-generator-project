@@ -1,0 +1,43 @@
+
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{array}
+
+\geometry{margin=0.7in}
+\definecolor{techblue}{RGB}{0,50,100}
+\setlist[itemize]{leftmargin=1em,itemsep=0.1em}
+
+\begin{document}
+\pagestyle{empty}
+
+\noindent
+\begin{tabular}{p{0.7\textwidth} p{0.25\textwidth}}
+{\huge\bfseries\color{techblue} $name$} & \raggedleft $phone$ \\
+{\large Technical Specialist} & \raggedleft $email$ \\
+& \raggedleft $website$ \\
+\end{tabular}
+
+\vspace{0.5em}
+\noindent\rule{\textwidth}{2pt}
+
+\vspace{0.5em}
+\textbf{\color{techblue} TECHNICAL SUMMARY}
+$summary$
+
+\vspace{0.5em}
+\textbf{\color{techblue} CORE TECHNOLOGIES}
+$skills$
+
+\vspace{0.5em}
+\textbf{\color{techblue} PROFESSIONAL EXPERIENCE}
+$experience$
+
+\vspace{0.5em}
+\textbf{\color{techblue} EDUCATION \& CERTIFICATIONS}
+$education$
+
+\end{document}

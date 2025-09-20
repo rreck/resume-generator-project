@@ -1,0 +1,28 @@
+version: "3.9"
+services:
+  pandoc:
+    build: .
+    image: rrecktek/crewai-pandoc:1.0.0
+    container_name: pandoc-agent
+    environment:
+      - INPUT_DIR=/work/input
+      - OUTPUT_DIR=/work/output
+      - TEMPLATE_FILE=/opt/app/template.tex
+    volumes:
+      - ./input:/work/input
+      - ./output:/work/output
+      - ./app/template.tex:/opt/app/template.tex:ro
+    profiles: ["batch"]
+
+  pandoc_watch:
+    image: rrecktek/crewai-pandoc:1.0.0
+    container_name: pandoc-agent-watch
+    command: ["python","/opt/app/main.py","-i","/work/input","-o","/work/output","-t","/opt/app/template.tex","-w","-s","3"]
+    environment:
+      - INPUT_DIR=/work/input
+      - OUTPUT_DIR=/work/output
+    volumes:
+      - ./input:/work/input
+      - ./output:/work/output
+      - ./app/template.tex:/opt/app/template.tex:ro
+    profiles: ["watch"]

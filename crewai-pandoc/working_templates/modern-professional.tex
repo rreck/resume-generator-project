@@ -1,0 +1,40 @@
+
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+
+\geometry{margin=0.8in}
+\definecolor{primarycolor}{RGB}{0,100,200}
+\definecolor{secondarycolor}{RGB}{100,100,100}
+
+\titleformat{\section}{\Large\bfseries\color{primarycolor}}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\large\bfseries\color{secondarycolor}}{}{0em}{}
+
+\setlist[itemize]{leftmargin=1em,itemsep=0.2em}
+
+\begin{document}
+\pagestyle{empty}
+
+{\Huge\bfseries\color{primarycolor} $name$}
+
+\vspace{0.5em}
+{\large $phone$ | $email$ | $website$}
+
+\vspace{1em}
+\section{Professional Summary}
+$summary$
+
+\section{Core Skills}
+$skills$
+
+\section{Experience}
+$experience$
+
+\section{Education}
+$education$
+
+\end{document}
