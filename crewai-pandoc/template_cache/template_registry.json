@@ -454,5 +454,96 @@
     "zip_hash": "a73fadbf205b0a46",
     "cached_path": "template_cache/a73fadbf205b0a46",
     "processed_time": 1758389306.5364695
+  },
+  "402b3a3f1decb6a0": {
+    "main_template": "mmayer.tex",
+    "template_files": [
+      "pubs-authoryear.tex",
+      "mmayer.tex",
+      "pubs-num.tex"
+    ],
+    "class_files": [
+      "altacv.cls"
+    ],
+    "style_files": [],
+    "bibliography_files": [
+      "sample.bib"
+    ],
+    "font_files": [],
+    "image_files": [
+      "Suitcase_High.png",
+      "Yacht_High.png",
+      "mmayer-wikipedia-cc-by-2_0.jpg"
+    ],
+    "readme_files": [
+      "README.md",
+      "CHANGELOG.md",
+      "LICENSE.md"
+    ],
+    "type": "professional",
+    "complexity": "complex",
+    "zip_path": "/home/rreck/Desktop/20250920a/Recreating_Business_Insider_s_CV_of_Marissa_Mayer__1_.zip",
+    "zip_hash": "402b3a3f1decb6a0",
+    "cached_path": "template_cache/402b3a3f1decb6a0",
+    "processed_time": 1758393783.9035716
+  },
+  "c05cd4fcc3d2e79a": {
+    "main_template": "main.tex",
+    "template_files": [
+      "main.tex"
+    ],
+    "class_files": [
+      "simplehipstercv.cls"
+    ],
+    "style_files": [
+      "simplehipstercv.sty"
+    ],
+    "bibliography_files": [],
+    "font_files": [],
+    "image_files": [
+      "jack.jpg",
+      "medal.jpeg",
+      "disney.png"
+    ],
+    "readme_files": [],
+    "type": "professional",
+    "complexity": "complex",
+    "zip_path": "/home/rreck/Desktop/20250920a/Simple_Hipster_CV__5_.zip",
+    "zip_hash": "c05cd4fcc3d2e79a",
+    "cached_path": "template_cache/c05cd4fcc3d2e79a",
+    "processed_time": 1758393796.8235476
+  },
+  "93ff41248baa97ed": {
+    "main_template": "sample.tex",
+    "template_files": [
+      "sample.tex",
+      "pubs-authoryear.tex",
+      "pubs-num.tex"
+    ],
+    "class_files": [
+      "altacv.cls"
+    ],
+    "style_files": [],
+    "bibliography_files": [
+      "sample.bib"
+    ],
+    "font_files": [],
+    "image_files": [
+      "Suitcase_High.png",
+      "Yacht_High.png",
+      "Globe_High.png"
+    ],
+    "readme_files": [
+      "README.md",
+      "CHANGELOG.md",
+      "nicethings_icons_readme.txt",
+      "LICENSE.md"
+    ],
+    "type": "professional",
+    "complexity": "complex",
+    "zip_path": "/home/rreck/Desktop/20250920a/AltaCV_Template__2_.zip",
+    "zip_hash": "93ff41248baa97ed",
+    "cached_path": "template_cache/93ff41248baa97ed",
+    "processed_time": 1758393796.8259969
   }
 }
